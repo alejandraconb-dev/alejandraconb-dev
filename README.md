@@ -2,7 +2,7 @@
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi! I'm a Data Analyst, my name is Alejandra. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ¡Hola! Mi nombre es **Alejandra**, soy **Analista de Datos**. :computer::blue_heart:📊📈 🐍☕
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ¡Hola! Mi nombre es **Alejandra**, soy **Analista de Datos**. :computer::blue_heart:📊📈
 
 - 🔭 I’m currently working on my portfolio.
 - 🌱 I’m currently learning about PostgreSQL, AWS and Artificial Intelligence.
