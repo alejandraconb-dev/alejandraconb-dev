@@ -49,8 +49,6 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpjaHJzbGttNjhkZGMxNGdhO
     <img width="12" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
    <img width="12" />
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Mint-Dark.svg" height="40" alt="intellij logo"  />
-    <img width="12" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
     <img width="12" />
   <img align="center" src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="trello logo"  />
