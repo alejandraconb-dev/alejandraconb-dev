@@ -43,6 +43,8 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpjaHJzbGttNjhkZGMxNGdhO
 <div align="left">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
     <img width="12" />
+  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Mint-Dark.svg" height="40" alt="Linux Mint logo"  />
+    <img width="12" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
     <img width="12" />
   <img align="center" src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
