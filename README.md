@@ -28,6 +28,8 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpjaHJzbGttNjhkZGMxNGdhO
     <img width="12" />
   <img align="center" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"  height="40" alt="seaborn logo"  />   
     <img width="12" />
+   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"  height="40" alt="matplotlib logo"  />   
+   <img width="12" />
       <img align="center" src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="tensorflow logo"  />
    <img width="12" />
      <img align="center" src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
