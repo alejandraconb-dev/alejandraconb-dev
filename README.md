@@ -37,6 +37,8 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpjaHJzbGttNjhkZGMxNGdhO
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+      <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" height="40" alt="json logo"  />
   
 ###
 
