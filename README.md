@@ -50,7 +50,9 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpjaHJzbGttNjhkZGMxNGdhO
   <img align="center" src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" height="40" alt="Power BI logo"  />
    <img width="12" />    
   <img align="center" src="https://img.icons8.com/?size=100&id=11594&format=png&color=000000" height="40" alt="excel logo"  />
- <img width="12" />    
+   <img width="12" />    
+  <img align="center" src="https://img.icons8.com/?size=100&id=30461&format=png&color=000000" height="40" alt="git logo"  />
+   <img width="12" />     
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
     <img width="12" />        
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" height="40" alt="Linux Mint logo"  />
