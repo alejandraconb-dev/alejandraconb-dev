@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ¡Hola! Mi nombre es **Alejandra**, soy **Analista de Datos**. :computer::blue_heart: 📊 📈
 
 - 🔭 I’m currently working on my portfolio.
-- 🌱 I’m currently learning about PostgreSQL and Artificial Intelligence.
+- 🌱 I’m currently learning about n8n and Artificial Intelligence.
 - 💞 I love drawing ✏️🎨, roller blading 🏃, reading 📚, the math 📝 and the cats 🐱.
 
 <img align="right" src="https://github.com/AlejandraConB/Images/blob/main/Gato-en-el-computador.png" height="250" alt="Gato escribiendo en un computador">
@@ -36,6 +36,8 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpjaHJzbGttNjhkZGMxNGdhO
   <img width="12" />
     <img align="center" src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
   <img width="12" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo"  />
+  <img width="12" /> 
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
